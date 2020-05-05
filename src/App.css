@@ -1,0 +1,13 @@
+
+* {
+  margin: 200px;
+  float: none;
+  padding: 0px;
+}
+
+body {
+  background: rgb(88, 81, 81) url(f1.jpg) no-repeat;
+  background-position:center -5px;
+  font: normal small Verdana, Arial, Helvetica, sans-serif;
+  color: #959595;
+}
